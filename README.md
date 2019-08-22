@@ -1,7 +1,7 @@
 # test-assignment
 The first day of class we will talk about creating version controlled projects in Rstudio. This first test assignment will not be graded, but it will give you a chance to practice the process of submitting  assignments to GitHub. 
 
-Before day 2 of class (Thu 1/5), I will expect you to have reviewed: 
+Before day 2 of class (Thu 9/5), I will expect you to have reviewed: 
 
 - [GitHub Classroom guide](https://github.com/jfiksel/github-classroom-for-students)
 
