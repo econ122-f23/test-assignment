@@ -19,7 +19,7 @@ Use full sentences to answer the questions below. Provide your answer and, if ne
 The data for today's review example is a "classic" German credit data set. Each entry in the data set represents a loan given by the bank, along personal characteristics of the person the loan was given to, the type of loan and whether or not they paid it off or defaulted.  At the time, the deutsch mark was the unit of currency so an "DM" in the dataset refers to that unit of measurement. One of the main questions about this dataset is to understand factors associated with a loan defaulting (or not). For this analysis the variable `Good.Loan` indicates whether a loan was paid off (`GoodLoan`) or whether it defaulted (`BadLoan`).
 
 ```{r}
-loans <- read.csv("https://claremontmckenna.box.com/v/day1CreditData")
+loans <- read.csv("https://raw.githubusercontent.com/mgelman/data/master/day1CreditData.csv")
 str(loans)
 ```
 
