@@ -1,6 +1,6 @@
 ---
 title: "Test activity: Loan default EDA"
-author: "Math 285 - St Clair"
+author: "ECON 122"
 output: github_document
 ---
 
@@ -12,14 +12,14 @@ library(knitr)
 ## First steps
 Make sure you completed the steps in this test assignment's GitHub README file. Keep the output type for this .Rmd a `github_document`.   
 
-## To Do: Complete before Friday's class (1/5/18)
+## To Do: Complete before Friday's class (9/5)
 Use full sentences to answer the questions below. Provide your answer and, if needed, an R chunk used to answer the question. You should be able to complete questions 1-4 with a little review of intro stats R commands. Give questions 5 and 6 a try even if you can't fully answer them. 
 
 ## Data description:
 The data for today's review example is a "classic" German credit data set. Each entry in the data set represents a loan given by the bank, along personal characteristics of the person the loan was given to, the type of loan and whether or not they paid it off or defaulted.  At the time, the deutsch mark was the unit of currency so an "DM" in the dataset refers to that unit of measurement. One of the main questions about this dataset is to understand factors associated with a loan defaulting (or not). For this analysis the variable `Good.Loan` indicates whether a loan was paid off (`GoodLoan`) or whether it defaulted (`BadLoan`).
 
 ```{r}
-loans <- read.csv("http://math.carleton.edu/kstclair/data/day1CreditData.csv")
+loans <- read.csv("https://claremontmckenna.box.com/v/day1CreditData")
 str(loans)
 ```
 
