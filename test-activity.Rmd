@@ -52,7 +52,7 @@ What percentage of loans in this dataset defaulted?
 
 
 ## 3. Default rate by duration
-What is the average loan duration in this data? What percent of defaults occur for loans of 2 years or less? More than 2 years?
+What is the average loan duration in this data? Of the loans that defaulted, What percent have a duration of 2 years or less? More than 2 years?
 
 *answer:* answer here
 
