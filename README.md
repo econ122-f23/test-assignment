@@ -7,9 +7,9 @@ Before day 2 of class (Thu 9/5), I will expect you to have reviewed:
 
 Then create a version controlled project for this test assignment using the repository that was automatically created after you accepted the GitHub Classroom assignment link. After creating this project, you will then have the file `test-activity.Rmd` in your `test-assignment` project folder. To complete this activity
 
-1. Edit this .Rmd file with appropiate code and written answers
-2. Knit the file to produce an .md file as an output that runs all the code and contains your answers
-3. commit and push your changes to your GitHub repository
+1. Edit this `.Rmd` file with appropiate code and written answers
+2. `Knit` the file to produce an `.md` file as an output that runs all the code and contains your answers
+3. `commit` and `push` your changes to your GitHub repository
 
 
 
