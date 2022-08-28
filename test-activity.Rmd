@@ -12,7 +12,7 @@ library(knitr)
 ## First steps
 If you followed the directions in the README file, you should be viewing this file in RStudio. As discussed in class, `.Rmd` files allow you to combine the **analysis** *AND* **writeup** of a project all in one document. If you use a different dataset, the code should dynamically update all the variables in the file.
 
-## To Do: Complete before Wednesday's class (9/1)
+## To Do: Complete before Wednesday's class 
 Go through and answer the questions below.
 
 Note: The grey portions of code between ` ```{r}` and ` ``` ` are called R chunks. They allow you to run code in real time by clicking on the green arrow. 
