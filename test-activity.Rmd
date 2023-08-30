@@ -65,7 +65,7 @@ That's it for the `Rmd` portion of the assignment! Be sure to complete the assig
     1. A new file `test-activity.md` created from knitting your `.Rmd` file
     2. Your `test-activity.Rmd` file should have changes made to it from filling in your answers
 3. `push` your changes to your `test-activity` GitHub repository
-4. Lastly, go back to GitHub to check that your changes were properly `pushed`. Once, I see that your new files have been pushed, you will receive credit for the assignment. 
+4. Lastly, go back to GitHub to check that your changes were properly `pushed`. Once I see that your new files have been pushed, you will receive credit for the assignment. 
 
 
 
